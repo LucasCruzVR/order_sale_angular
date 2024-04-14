@@ -1,3 +1,3 @@
 export const environment = {
-    baseApi: 'htpp://localhost:8090'
+    baseApi: 'http://localhost:8090'
 }
